@@ -23,7 +23,7 @@ export default function Hero() {
         </div>
 
         <div className="hero-image-card">
-          <img src="/images/banner.jpg" alt="Création florale éternelle" />
+          <img src="/images/sample.jpg" alt="Création florale éternelle" />
         </div>
       </div>
     </section>
